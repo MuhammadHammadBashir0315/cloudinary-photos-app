@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# secret 
+.env
+
 # production
 /build
 
